@@ -101,7 +101,7 @@ function getFormattedNames(country) {
 
 function openDetailsPage(queryString) {
 
-    window.location.href = "./pages/detail.html" + queryString
+    window.location.href = "./detail-page/detail.html" + queryString
 }
 
 function validationData(inputValue) {
