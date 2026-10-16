@@ -14,7 +14,7 @@ O Country Explorer exibe uma lista de países em cards e permite refinar os resu
 ## ✨ Funcionalidades
 
 - 🔎 **Busca por nome** do país, com mensagem de validação para entradas inválidas
-- 🗺️ **Filtro por região**: África, América, Ásia, Europa e Oceania
+- 🗺️ **Filtro por região**: África, América, Ásia, Europe e Oceania
 - 👥 **Filtro por população**, com limite máximo de 1,5 bilhão e mensagem de erro para valores acima disso
 - 🃏 **Cards de países** gerados dinamicamente via JavaScript
 - ➕ **Botão "Show More"** para carregar mais países aos poucos
